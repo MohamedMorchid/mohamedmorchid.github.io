@@ -1,0 +1,40 @@
+/* Flag icons in lists */ 
+
+ul.publication	{  list-style-type: none; }
+
+li.books    {  background-image: url(../images/flags/books.jpg); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px;}
+
+li.jl     {  background-image: url(../images/flags/icon_journal.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+
+li.china     {  background-image: url(../images/flags/16/China.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+
+li.austria     {  background-image: url(../images/flags/16/Austria.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+
+li.uk     {  background-image: url(../images/flags/16/United_Kingdom.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+
+li.ca     {  background-image: url(../images/flags/16/Canada.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+
+li.gr     {  background-image: url(../images/flags/16/Greece.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+
+li.india     {  background-image: url(../images/flags/16/India.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+
+li.sweden     {  background-image: url(../images/flags/16/Sweden.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+
+li.sk     {  background-image: url(../images/flags/16/South_Korea.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+li.us     {  background-image: url(../images/flags/16/US.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+li.qa     {  background-image: url(../images/flags/16/Qatar.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+li.ta     {  background-image: url(../images/flags/16/Taiwan.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+li.sg     {  background-image: url(../images/flags/16/Singapore.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+li.cr     {  background-image: url(../images/flags/16/Czech_Republic.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+li.it     {  background-image: url(../images/flags/16/Italy.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+li.il     {  background-image: url(../images/flags/16/Iceland.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+
+li.jp     {  background-image: url(../images/flags/16/Japan.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+li.hu     {  background-image: url(../images/flags/16/Hungary.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+li.fr     {  background-image: url(../images/flags/16/France.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+li.de     {  background-image: url(../images/flags/16/Germany.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+li.sw     {  background-image: url(../images/flags/16/Switzerland.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+li.sp     {  background-image: url(../images/flags/16/Spain.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+li.br     {  background-image: url(../images/flags/16/Brazil.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+li.eg     {  background-image: url(../images/flags/16/Egypt.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
+li.pr     {  background-image: url(../images/flags/16/Puerto_Rico.png); background-repeat: no-repeat; background-position: 0 1.2em; margin: -20px; padding-left: 10px; }
